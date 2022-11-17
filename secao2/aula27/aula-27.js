@@ -17,6 +17,6 @@
 
 let num1 = 9;
 console.log(num1 ** (1/2) );
-console.log(num1 ** 0.5);
+console.log(num1 ** 0.5); // raiz quadrada
 
 console.log(!!(100 / 0 )); // infinity
